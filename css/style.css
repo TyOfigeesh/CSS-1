@@ -1,0 +1,82 @@
+header {
+  background-color: rgb(9, 255, 0);
+}
+ 
+header nav {
+  background-color: blanchedalmond;
+}
+
+header nav #logo {
+  border: 5px solid darkblue;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  }
+
+img {
+
+}
+
+nav div:nth-child(2) {
+  background-color: rgb(127, 255, 176);
+ }
+
+nav div:nth-child(3) {
+  background-color: rgba(80, 92, 255, 0.877);
+ }
+
+nav div:nth-child(4) {
+  background-color: chocolate;
+ }
+
+nav div:nth-child(5) {
+  background-color: darkgreen;
+}
+
+nav div:nth-child(6) {
+  background-color: blueviolet;
+}
+
+.contents li:nth-child(1) {
+  background-color: rgb(21, 78, 236);
+}
+
+.contents li:nth-child(2){
+background-color: darkmagenta;
+}
+
+.contents li:nth-child(3){
+background-color: darkcyan;
+}
+
+.contents li:nth-child(4){
+background-color: darkgoldenrod;
+}
+
+.contents li:nth-child(5){
+background-color: indianred;
+}
+
+.contents li:nth-child(6){
+  background-color: darkslategray;
+}
+
+.contents li:nth-child(7){
+  background-color: darkred;
+}
+
+.contents li:nth-child(8){
+  background-color: fuchsia;
+}
+
+
+
+p {
+	font-family: Verdana;
+}
+
+div article h2{
+  background-color: rgb(255, 1, 1);
+}
+
+
